@@ -848,5 +848,5 @@ class EnergyBar extends StatelessWidget {
         ),
       ],
     );
-  }
+  }ffff
 }
